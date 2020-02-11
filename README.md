@@ -1,5 +1,9 @@
 # github-contributions-api
 
+## TMI
+ 이 프로젝트를 활용해 특정 익스텐션을 개발하기위해 이 프로젝트를 포크했습니다.
+ 해당 익스텐션에 사용하기 위해 총 2곳에 배포 할 예정입니다.
+ 
 ### Disclaimer
 
 This project is not intended for production use and should be shifted over into [sallar/github-contributions-api](https://github.com/sallar/github-contributions-api).
